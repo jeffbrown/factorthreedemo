@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: factorthreedemo
+---
+testFramework: junit
+sourceLanguage: java

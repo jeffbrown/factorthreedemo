@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: factorthreedemo
+    server:
+        port: 8090
